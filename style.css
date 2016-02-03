@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+body {
+  font-family: "Open Sans Condensed",sans-serif;
+  background-color: black;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,700,900,300);
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  font-family: "Raleway",sans-serif;
+  color: red;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: "Raleway",sans-serif;
+  color: orange;
+}
+
+ul {
+  font-size: 17px;
+  color: white;
+}
+
+ol {
+  font-size: 17px;
+  color: white;
+}
