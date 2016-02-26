@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {
+  background-color: yellow;
+  font-family: "Shadows Into Light";
+}
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+p {
+  font-size: 40px;
+  font-family: "Indie Flower", sans-serif;
+  font-weight: bold;
+  color: green;
+  text-decoration: overline;
+}
+
+ul {
+  float: left;
+  color: orange;
+}
+
+img {
+  float: right;
+}
+
+h1 {
+  font-weight: 600px;
+  color: brown;
+}
+
+ol {
+  font-weight: bolder;
+  color: red;
+}
+
+h2 {
+  font-weight: 500px;
+  color: blue;
+  text-decoration: underline;
+  font-size: 35px;
+}
+
+div {
+  color: purple;
+  letter-spacing: inherit;
+  font-size: 30px;
+}
+
+h3 {
+  border: 1px solid black;
+  width: 50%;
+  padding: 5px 1em;
+}
+
+h4 {
+  border: 3px dashed grey;
+  margin: 15% 2px;
+  color: brown;
+  font-style: italic;
+}
+
+h5 {
+  color: maroon;
+  font-weight: bolder;
+  font-size: 20px;
+  text-decoration: line-through;
+}
+
+h6 {
+  color: pink;
+  font-weight: 400px;
+  font-size: 20px;
+  border: 3px dashed green;
+  line-height: 90%;
+}
