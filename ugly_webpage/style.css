@@ -25,6 +25,7 @@ img {
 h1 {
   font-weight: 600px;
   color: brown;
+  line-height: 90%; 
 }
 
 ol {
@@ -49,6 +50,7 @@ h3 {
   border: 1px solid black;
   width: 50%;
   padding: 5px 1em;
+  word-spacing: inherit;
 }
 
 h4 {
