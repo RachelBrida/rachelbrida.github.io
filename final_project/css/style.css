@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+
+#navlist {
+  list-style-type: none;
+  margin: 0px;
+  padding: 5px;
+  overflow: hidden;
+  border: 1px solid grey;
+  text-align: center;
+  border-top: 4px solid #3D1255;
+  border-bottom: 4px solid #3D1255;
+  padding bottom: 17px;
+}
+
+#navlist li {
+  display:inline-block;
+  padding: 20px;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+h1 {
+  font-family: "Lobster Two";
+  font-size: 60px;
+  color: #764B8E;
+}
+
+h2 {
+  font-family: "Yanone Kaffeesatz";
+  font-size: 40px;
+  color: #9775AA;
+}
+
+h3 {
+  font-family: "Yanone Kaffeesatz";
+  font-size: 50px;
+}
