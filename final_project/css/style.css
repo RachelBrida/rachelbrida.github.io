@@ -8,8 +8,8 @@
   overflow: hidden;
   border: 1px solid grey;
   text-align: center;
-  border-top: 4px solid #3D1255;
-  border-bottom: 4px solid #3D1255;
+  border-top: 4px solid #610029;
+  border-bottom: 4px solid #610029;
   padding bottom: 17px;
 }
 
@@ -19,22 +19,45 @@
 }
 
 li a:hover {
-  background-color: white;
+  background-color: #B95981;
 }
+
+a {
+  color: #610029;
+}
+
+div.c-wrapper {
+  width: 80%;
+  margin: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+  width: 100%;
+  margin: auto;
+}
+
 
 h1 {
   font-family: "Lobster Two";
   font-size: 60px;
-  color: #764B8E;
+  color: #B95981;
+}
+
+p {
+  color: #610029;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 25px;
 }
 
 h2 {
+  color: #B95981;
   font-family: "Yanone Kaffeesatz";
   font-size: 40px;
-  color: #9775AA;
 }
 
-h3 {
-  font-family: "Yanone Kaffeesatz";
-  font-size: 50px;
+#content {
+  width: 640px;
+  margin: 2px;
+  float: right;
 }
